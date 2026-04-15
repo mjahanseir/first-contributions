@@ -16,6 +16,7 @@
 -[Binod Gogoi](https://github.com/gogoib477)
 -[Paravin Mulla](https://github.com/ParavinMulla786)
 - [Amulya Harish](...)
+- [Rand P]
 - [Srashti Choudhary]
 - [Akshara]
 - [Kishore Reddy](https://github.com/kishore7860)
@@ -3039,6 +3040,8 @@ Oiloo
 - [Stellin John George](https://github.com/Stellin-15)
 - [Palak](https://github.com/palak1-2)
 - [Berlin Brown](https://github.com/berlinbrown/)
+- [IH BARRET](https://github.com/IHBARRET/)
 - Surbhi
 - asuka-in-2024
 - [Mohammad Jahanseir](https://github.com/mjahjanseir/)
+- [Drew Ramos](https://github.com/drewsElearning) 
